@@ -1,4 +1,3 @@
-
 Dashboard
 
 
@@ -186,4 +185,4 @@ Developers
 Support
 Careers
 
-&copy; 2022 codewithsadee. All Rights Reserved
+&copy; 2023 alphaotuken. All Rights Reserved
