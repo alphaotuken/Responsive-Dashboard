@@ -1,8 +1,3 @@
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
-
   <h2 align="center">Dashboard - Admin Dashboard</h2>
 
   This dashboard is fully responsive for all devices, <br/> Built using HTML, CSS, and JavaScript.
