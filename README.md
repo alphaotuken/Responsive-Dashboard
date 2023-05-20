@@ -2,7 +2,7 @@
 
   <h4 align="center">This dashboard is fully responsive for all devices, <br/> Built using HTML, CSS, and JavaScript.</h4>
 
-  <h4 align="center"><a href="https://codewithsadee.github.io/dashboard/"><strong>➥ Live Demo</strong></a></h4>
+  <h4 align="center"><a href="https://alphaotuken.github.io/Responsive-Dashboard/"><strong>➥ Live Demo</strong></a></h4>
 
 </div>
 
